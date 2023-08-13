@@ -1,0 +1,36 @@
+.product{
+    width: 300px;
+    height:510px;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    position: relative;
+
+}
+
+
+.product img{
+    width:286px;
+    height: 28p6x;
+    margin: 7px;
+    border-radius: 8px;
+    
+}
+.product-name{
+    font-family: Lato;
+    font-style: normal;
+    font-weight:400;
+    line-height: 25px;
+    letter-spacing: 0.0015em;
+    color: #0E161A;
+}
+.product-info{
+    margin-left: 14px;
+}
+.btn-card{
+    width:100%;
+    background: #FFE0B3;
+    border: 1px solid #95A0A7;
+    border-radius: 0px 0px 8px 8px;
+    position: absolute;
+    bottom:0;
+}
